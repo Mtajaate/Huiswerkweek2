@@ -3,24 +3,26 @@
 ========================================================= */
 
 /* Schrijf hier  jouw CSS! */
+/* 2.1*/
 .one{
     display:flex;
     flex-direction: column;
     justify-content: end;
 }
-
+/* 2.2*/
 .two{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
-
+/* 2.3*/
 .three{
     display: flex;
     flex-direction: row;
     justify-content: space-between ;
     align-items: center;
 }
+
 div > ul {
     display: flex;
     flex-direction: row;
@@ -28,6 +30,8 @@ div > ul {
     width:400px;
     list-style: none;
 }
+
+/* 2.4*/
 form{
     display: flex;
     flex-direction: column;
@@ -41,6 +45,7 @@ div{
     justify-content: center;
 }
 
+/* 2.5*/
 .five{
     display:flex;
     flex-direction: row;
